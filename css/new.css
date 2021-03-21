@@ -301,19 +301,19 @@ top: 10px;
 }
 #card .wrap .card_text{
     position: absolute;
-    left: 14%;
+    left: 61%;
     bottom: 47%;
 }
 #card .wrap .card_text img{}
 #card .wrap .card_button{
 position: absolute;
-left: 14%;
+left: 61%;
 bottom: 32%;
 }
 #card .wrap .card_button a{
      font-size: 14px;
-    color: #323232;
-    border: 1px solid #323232;
+    color: #ffff;
+    border: 1px solid #fff;
     border-radius: 4px;
     cursor: pointer;
     width: 121px;
@@ -323,7 +323,7 @@ bottom: 32%;
 }
 #card .wrap .card_button:hover a{
     background:rgba(255,235,235,0.75);
-    color: #51504f;
+    color: #fff;
 } 
 /*menustory*/
 #menustory{}
